@@ -6,13 +6,18 @@ body{
 
 h1 {
     
-    font-size: 60px;
+    font-size: 50px;
+    COlor: rgb(34, 92, 179);
+    padding-left: -2%;
+    
 }
 
 h2{
 
-    padding:13px;
+    padding-left: -2%;
 }
+
+
 
 Span{
 
@@ -25,6 +30,7 @@ Span{
 
     width:40%;
     padding-left: 5%;
+    padding-right: 6%;
 }
 #section1-div-Right{
 
@@ -36,8 +42,14 @@ Span{
     margin-left: 20px;
 }
 
+.image{
+
+    max-width: 70%;
+}
+
 Section {
 
     display: flex;
 }
+
 
