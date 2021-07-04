@@ -45,10 +45,9 @@ Span{
     max-width: 70%;
 }
 
-Section {
+.Flexible-Container{
 
     display: flex;
-    
 }
 
 .section1{
@@ -103,4 +102,25 @@ nav a:hover{
 
 
 }
+
+.Experience-Area{
+
+    padding-left: 2%;
+    margin-left: 2% ;
+    padding-right: 2%;
+    margin-right:2%;
+    Width:30%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+ }
+
+ #head1{
+    font-size: 50px;
+    COlor: rgb(34, 92, 179);
+    padding-left: 2%;
+
+ }
+
+
+
 
