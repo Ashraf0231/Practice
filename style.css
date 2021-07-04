@@ -61,9 +61,10 @@ Section {
 
 nav ul{
 
-    
-    margin-right: 20px;
-    text-align: right;
+    list-style: none;
+    padding:0;
+    margin: 0;
+    text-align: center;
 }
 
 nav ul li {
@@ -79,6 +80,17 @@ nav ul li a{
     color: white;
     font-size: 17px;
     text-decoration: none;
+    width: 100%;
+    display: block;
+    padding:15px 15px;
+    text-align: center;
+    font-weight: bold;
+}
+
+nav a:hover{
+
+    background:rgb(79, 131, 209);
+    border-radius: 5px;
 }
 
 .button-link{
